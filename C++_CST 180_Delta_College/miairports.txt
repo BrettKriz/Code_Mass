@@ -1,0 +1,76 @@
+APN    Alpena County Rgnl Airport                     Alpena
+ARB    Ann Arbor Muni Airport                         Ann Arbor
+SJX    Beaver Island Airport                          Beaver Island
+FNT    Bishop Intl Airport                            Flint
+6Y1    Bois Blanc Island Airport                      Bois Blanc Island
+N98    Boyne City Muni Airport                        Boyne City
+BFA    Boyne Mountain Airport                         Boyne Falls
+OEB    Branch County Memorial Airport                 Coldwater
+45G    Brighton Airport                               Brighton
+LAN    Capital Region Intl Airport                    Lansing
+CVX    Charlevoix Muni Airport                        Charlevoix
+SLH    Cheboygan County Airport                       Cheboygan
+TVC    Cherry Capital Airport                         Traverse City
+CIU    Chippewa County Intl Airport                   Sault Ste Marie
+DET    Coleman A. Young Muni Airport                  Detroit
+TTF    Custer Airport                                 Monroe
+ESC    Delta County Airport                           Escanaba
+DTW    Detroit Metropolitan Airport                   Detroit
+DRM    Drummond Island Airport                        Drummond Island
+Y94    East Jordan City Airport                       East Jordan
+M61    Edward F Johnson Airport                       Ishpeming
+Y87    Empire Airport                                 Empire
+E53    Engler Field Airport                           Bad Axe
+FKS    Frankfort Dow Memorial Field Airport           Frankfort
+GLR    Gaylord Rgnl Airport                           Gaylord
+GRR    Gerald R. Ford Intl Airport                    Grand Rapids
+GDW    Gladwin Zettel Memorial Airport                Gladwin
+IWD    Gogebic-iron County Airport                    Ironwood
+3GM    Grand Haven Memorial Airpark Airport           Grand Haven
+Y98    Grand Marais Airport                           Grand Marais
+AMN    Gratiot Community Airport                      Alma
+GOV    Grayling Aaf Airport                           Grayling
+MGN    Harbor Springs Airport                         Harbor Springs
+CMX    Houghton County Memorial Airport               Hancock
+BAX    Huron County Memorial Airport                  Bad Axe
+50D    Iron County Airport                            Crystal Falls
+IKW    Jack Barstow Airport                           Midland
+JXN    Jackson County-reynolds Field Airport          Jackson
+3CM    James Clements Muni Airport                    Bay City
+AZO    Kalamazoo/battle Creek Intl Airport            Kalamazoo
+Y89    Kalkaska City Airport                          Kalkaska
+4M0    Lake Ann Airway Estates Airport                Traverse City
+ADG    Lenawee County Airport                         Adrian
+ERY    Luce County Airport                            Newberry
+83D    Mackinac County Airport                        St Ignace
+MCD    Mackinac Island Airport                        Mackinac Island
+MBL    Manistee Co.-blacker Airport                   Manistee
+LDM    Mason County Airport                           Ludington
+TEW    Mason Jewett Field Airport                     Mason
+MBS    MBS Intl Airport                               Saginaw
+27C    Mecosta Morton Airport                         Mecosta
+MNM    Menominee-marinette Twin County Airport        Menominee
+MOP    Mount Pleasant Muni Airport                    Mount Pleasant MI
+MKG    Muskegon County Airport                        Muskegon
+RCT    Nartron Field Airport                          Reed City
+PTK    Oakland County Intl Airport                    Pontiac
+OGM    Ontonagon County - Schuster Field Airport      Ontonagon
+OSC    Oscoda-wurtsmith Airport                       Oscoda
+Z98    Ottawa Executive Airport                       Zeeland
+RNP    Owosso Community Airport                       Owosso
+PLN    Pellston Rgnl Airport Of Emmet County Airport  Pellston
+PZQ    Presque Isle County Airport                    Rogers City
+RQB    Roben-hood Airport                             Big Rapids
+HTL    Roscommon County - Blodgett Memorial Airport   Houghton Lake
+HYX    Saginaw County H.w. Browne Airport             Saginaw
+SAW    Sawyer Intl Airport                            Marquette
+98G    Sebewaing Airport                              Sebewaing
+MTC    Selfridge Angb Airport                         Mount Clemens
+BEH    Southwest Michigan Rgnl Airport                Benton Harbor
+PHN    St Clair County Intl Airport                   Port Huron
+BTL    W K Kellogg Airport                            Battle Creek
+6Y8    Welke Airport                                  Beaver Island
+Y31    West Branch Community Airport                  West Branch
+BIV    West Michigan Rgnl Airport                     Holland
+CAD    Wexford County Airport                         Cadillac
+YIP    Willow Run Airport                             Detroit

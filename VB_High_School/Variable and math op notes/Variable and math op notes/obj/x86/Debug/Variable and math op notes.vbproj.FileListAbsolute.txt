@@ -1,0 +1,11 @@
+u:\visual studio 2010\Projects\Variable and math op notes\Variable and math op notes\bin\Debug\Variable and math op notes.exe
+u:\visual studio 2010\Projects\Variable and math op notes\Variable and math op notes\bin\Debug\Variable and math op notes.pdb
+u:\visual studio 2010\Projects\Variable and math op notes\Variable and math op notes\bin\Debug\Variable and math op notes.xml
+u:\visual studio 2010\Projects\Variable and math op notes\Variable and math op notes\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\visual studio 2010\Projects\Variable and math op notes\Variable and math op notes\obj\x86\Debug\Variable_and_math_op_notes.Form1.resources
+u:\visual studio 2010\Projects\Variable and math op notes\Variable and math op notes\obj\x86\Debug\Variable_and_math_op_notes.Resources.resources
+u:\visual studio 2010\Projects\Variable and math op notes\Variable and math op notes\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\visual studio 2010\Projects\Variable and math op notes\Variable and math op notes\obj\x86\Debug\GenerateResource.write.1.tlog
+u:\visual studio 2010\Projects\Variable and math op notes\Variable and math op notes\obj\x86\Debug\Variable and math op notes.exe
+u:\visual studio 2010\Projects\Variable and math op notes\Variable and math op notes\obj\x86\Debug\Variable and math op notes.xml
+u:\visual studio 2010\Projects\Variable and math op notes\Variable and math op notes\obj\x86\Debug\Variable and math op notes.pdb

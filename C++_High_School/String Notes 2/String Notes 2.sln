@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "String Notes 2", "String Notes 2\String Notes 2.vcxproj", "{89963015-7FBD-4821-9B11-AC71A0C84BC7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{89963015-7FBD-4821-9B11-AC71A0C84BC7}.Debug|Win32.ActiveCfg = Debug|Win32
+		{89963015-7FBD-4821-9B11-AC71A0C84BC7}.Debug|Win32.Build.0 = Debug|Win32
+		{89963015-7FBD-4821-9B11-AC71A0C84BC7}.Release|Win32.ActiveCfg = Release|Win32
+		{89963015-7FBD-4821-9B11-AC71A0C84BC7}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

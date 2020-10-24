@@ -1,0 +1,11 @@
+u:\visual studio 2010\Projects\Properties Notes 1\Properties Notes 1\bin\Debug\Properties Notes 1.exe
+u:\visual studio 2010\Projects\Properties Notes 1\Properties Notes 1\bin\Debug\Properties Notes 1.pdb
+u:\visual studio 2010\Projects\Properties Notes 1\Properties Notes 1\bin\Debug\Properties Notes 1.xml
+u:\visual studio 2010\Projects\Properties Notes 1\Properties Notes 1\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\visual studio 2010\Projects\Properties Notes 1\Properties Notes 1\obj\x86\Debug\Properties_Notes_1.Form1.resources
+u:\visual studio 2010\Projects\Properties Notes 1\Properties Notes 1\obj\x86\Debug\Properties_Notes_1.Resources.resources
+u:\visual studio 2010\Projects\Properties Notes 1\Properties Notes 1\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\visual studio 2010\Projects\Properties Notes 1\Properties Notes 1\obj\x86\Debug\GenerateResource.write.1.tlog
+u:\visual studio 2010\Projects\Properties Notes 1\Properties Notes 1\obj\x86\Debug\Properties Notes 1.exe
+u:\visual studio 2010\Projects\Properties Notes 1\Properties Notes 1\obj\x86\Debug\Properties Notes 1.xml
+u:\visual studio 2010\Projects\Properties Notes 1\Properties Notes 1\obj\x86\Debug\Properties Notes 1.pdb

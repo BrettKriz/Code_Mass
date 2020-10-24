@@ -1,0 +1,48 @@
+setw(10)
+SETPRECISION(2)
+
+
+COUT << SETW(9) << DEPENDATS <<< SETW(15) << SETPRECISION(2) << fixed << right << GROSS_SALARY << 
+
+// tostring NOTES
+#include <string>
+
+std::string s = std::to_string(5);
+
+If you're working with prior to C++11, you could use C++ streams:
+
+#include <sstream>
+
+int i = 5;
+std::string s;
+std::stringstream out;
+out << i;
+s = out.str();
+
+reference parameters; use single & after or before value IE
+double& area
+
+
+
+int = 4bytes
+double = 8bytes
+har = 1 byte
+
+struct DateType
+{
+int month;
+int day;
+int year;
+};
+
+
+
+DateType* datePtr = new DateType;
+datePtr->month = 5;
+*datePtr.month = 5;
+if (datePtr->year == 1900)
+    datePtr->year = 2000;
+cout<< datePtr->day;
+
+
+string Table = {"STRINGS","ONLY","LOL};

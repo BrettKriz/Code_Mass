@@ -1,0 +1,11 @@
+u:\visual studio 2010\Projects\Hospital Billing\Hospital Billing\bin\Debug\Hospital Billing.exe
+u:\visual studio 2010\Projects\Hospital Billing\Hospital Billing\bin\Debug\Hospital Billing.pdb
+u:\visual studio 2010\Projects\Hospital Billing\Hospital Billing\bin\Debug\Hospital Billing.xml
+u:\visual studio 2010\Projects\Hospital Billing\Hospital Billing\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\visual studio 2010\Projects\Hospital Billing\Hospital Billing\obj\x86\Debug\Hospital_Billing.Form1.resources
+u:\visual studio 2010\Projects\Hospital Billing\Hospital Billing\obj\x86\Debug\Hospital_Billing.Resources.resources
+u:\visual studio 2010\Projects\Hospital Billing\Hospital Billing\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\visual studio 2010\Projects\Hospital Billing\Hospital Billing\obj\x86\Debug\GenerateResource.write.1.tlog
+u:\visual studio 2010\Projects\Hospital Billing\Hospital Billing\obj\x86\Debug\Hospital Billing.exe
+u:\visual studio 2010\Projects\Hospital Billing\Hospital Billing\obj\x86\Debug\Hospital Billing.xml
+u:\visual studio 2010\Projects\Hospital Billing\Hospital Billing\obj\x86\Debug\Hospital Billing.pdb

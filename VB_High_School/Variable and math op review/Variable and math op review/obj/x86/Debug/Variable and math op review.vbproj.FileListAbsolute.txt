@@ -1,0 +1,14 @@
+u:\visual studio 2010\Projects\Variable and math op review\Variable and math op review\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\visual studio 2010\Projects\Variable and math op review\Variable and math op review\obj\x86\Debug\Variable_and_math_op_review.Resources.resources
+u:\visual studio 2010\Projects\Variable and math op review\Variable and math op review\obj\x86\Debug\Variable_and_math_op_review.Form1.resources
+u:\visual studio 2010\Projects\Variable and math op review\Variable and math op review\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\visual studio 2010\Projects\Variable and math op review\Variable and math op review\obj\x86\Debug\GenerateResource.write.1.tlog
+u:\visual studio 2010\Projects\Variable and math op review\Variable and math op review\bin\Debug\Variable and math op review.exe
+u:\visual studio 2010\Projects\Variable and math op review\Variable and math op review\bin\Debug\Variable and math op review.pdb
+u:\visual studio 2010\Projects\Variable and math op review\Variable and math op review\bin\Debug\Variable and math op review.xml
+u:\visual studio 2010\Projects\Variable and math op review\Variable and math op review\obj\x86\Debug\Variable and math op review.exe
+u:\visual studio 2010\Projects\Variable and math op review\Variable and math op review\obj\x86\Debug\Variable and math op review.xml
+u:\visual studio 2010\Projects\Variable and math op review\Variable and math op review\obj\x86\Debug\Variable and math op review.pdb
+U:\Visual Studio 2010\Projects\Visual Basic Stuff\Variable and math op review\Variable and math op review\obj\x86\Debug\Variable and math op review.exe
+U:\Visual Studio 2010\Projects\Visual Basic Stuff\Variable and math op review\Variable and math op review\obj\x86\Debug\Variable and math op review.xml
+U:\Visual Studio 2010\Projects\Visual Basic Stuff\Variable and math op review\Variable and math op review\obj\x86\Debug\Variable and math op review.pdb

@@ -1,0 +1,84 @@
+// CS1131 Final Review!
+
+1. Evaluate the Expression!
+
+	5 * -5 % 7 == 5 * 5 % 7, -25 %7 == 25 % 7, -4 == 4 : false
+
+	(int)(26.0/2 + 1.5 * 3), (int)(13.0 + 4.5), (int)17.5 : 17
+
+	"Hellow World" instanceof Scanner : false
+	new Scanner("Hellow World") instanceof Object : true
+
+2. What is the name of a data structure that has FIFO semantics?
+	Queue(FIFO, LILO)
+
+3. Cost of dequeueing from a maximum PQ, backed by a sorted ArrayList, Sorted in Descending order?
+	o(N) -- ALWAYS PROVIDE AN EXPLAINATION!
+
+4. What are the 2 main differences between a BST and a binary heap?
+	BST property vs heap property
+	l < p <r vs p > l&r
+	A heap is complete -- fills empty children before giving child a child.
+	
+
+5. What are the 3 main queue operations, and what are the costs of a linked-backed queue (and why?)?
+	enqueue, dequeue, element/first
+	 O(1) --  The tail is known, and it is is constant time to add to tail
+		   O(1) -- The had is known, s=constant time to remove the head and replace,
+				O(1) -- The head is known
+
+6. (Code writing problems) Fill in the following method:
+	/**
+	* Verifies that the given ArrayList of ints is in heap order
+	**/
+	boolean isValidHeap(ArrayList list){
+		for(int x = 0; x < list.size(); x++){
+			if (list.get(x) > list.get(parent(x))){
+				return false;
+			}
+		}
+		return true;
+	}
+	int parent(int x){
+		return (x-1)/2;
+	}
+	
+	boolean isValidHeap(ArrayList list){
+		for(int x = 0; x <list.size(); x++){
+			// Check if inside the list bound
+			if (LChild(x) < list.size() && list.get(LChild(x)) > list.get(x)){
+				return false;
+			}
+			if (RChild(x) < list.size() && list.get(RChild(x)) > list.get(x)){
+				return false;
+			}
+		}
+		return true;
+	}
+	int LChild(int x){
+		return 2*x+1;
+	}
+	int RChild(int x){
+		return 2*x+2;
+	}
+	
+7. Insertion sort vs selection sort
+// bubble sort, swap heavy
+	//Bubble
+	// Works best when mostly sorted array
+// selection sort, select the next thing to be in order
+	// 2 sections, sorted and unsorted 
+	// Finds the smallest, and swaps into the sorted section
+	// repeat
+	// Writes to mememory alot less
+
+8. Recursive Sort
+	//Quick Sort
+		// Split array into smaller sub arrays starting from the middle
+	// Merge Sort
+		// Divide the array, and agian, and agian, untill arrays of 3?
+		// On the way back up, we merge sorted arrays together
+	// Heap Sort
+		// Heapify then De-heapify
+
+9. 

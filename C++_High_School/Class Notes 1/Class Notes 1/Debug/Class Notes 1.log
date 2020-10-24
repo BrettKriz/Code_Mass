@@ -1,0 +1,31 @@
+﻿Build started 4/28/2011 8:28:50 AM.
+     1>Project "u:\visual studio 2010\Projects\Class Notes 1\Class Notes 1\Class Notes 1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Class Notes 1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Notes.cpp
+         Notes.cpp
+     1>u:\visual studio 2010\projects\class notes 1\class notes 1\bankaccount.h(51): warning C4018: '<' : signed/unsigned mismatch
+     1>u:\visual studio 2010\projects\class notes 1\class notes 1\bankaccount.h(67): warning C4244: 'argument' : conversion from 'double' to 'char', possible loss of data
+     1>u:\visual studio 2010\projects\class notes 1\class notes 1\bankaccount.h(71): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\time.inl(86) : see declaration of 'ctime'
+       ManifestResourceCompile:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Class Notes 1.exe.embed.manifest.res" "Debug\Class Notes 1_manifest.rc" 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"u:\visual studio 2010\Projects\Class Notes 1\Debug\Class Notes 1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Class Notes 1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"u:\visual studio 2010\Projects\Class Notes 1\Debug\Class Notes 1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"u:\visual studio 2010\Projects\Class Notes 1\Debug\Class Notes 1.lib" /MACHINE:X86 "Debug\Class Notes 1.exe.embed.manifest.res"
+         Debug\Notes.obj
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Class Notes 1.exe.embed.manifest" /manifest "Debug\Class Notes 1.exe.intermediate.manifest"
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Class Notes 1.exe.embed.manifest.res" "Debug\Class Notes 1_manifest.rc" 
+       LinkEmbedManifest:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"u:\visual studio 2010\Projects\Class Notes 1\Debug\Class Notes 1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Class Notes 1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"u:\visual studio 2010\Projects\Class Notes 1\Debug\Class Notes 1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"u:\visual studio 2010\Projects\Class Notes 1\Debug\Class Notes 1.lib" /MACHINE:X86 "Debug\Class Notes 1.exe.embed.manifest.res"
+         Debug\Notes.obj
+         Class Notes 1.vcxproj -> u:\visual studio 2010\Projects\Class Notes 1\Debug\Class Notes 1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Class Notes 1.unsuccessfulbuild".
+         Touching "Debug\Class Notes 1.lastbuildstate".
+     1>Done Building Project "u:\visual studio 2010\Projects\Class Notes 1\Class Notes 1\Class Notes 1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.77

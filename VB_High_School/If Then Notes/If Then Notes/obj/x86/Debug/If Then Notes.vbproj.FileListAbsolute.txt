@@ -1,0 +1,11 @@
+u:\visual studio 2010\Projects\If Then Notes\If Then Notes\bin\Debug\If Then Notes.exe
+u:\visual studio 2010\Projects\If Then Notes\If Then Notes\bin\Debug\If Then Notes.pdb
+u:\visual studio 2010\Projects\If Then Notes\If Then Notes\bin\Debug\If Then Notes.xml
+u:\visual studio 2010\Projects\If Then Notes\If Then Notes\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\visual studio 2010\Projects\If Then Notes\If Then Notes\obj\x86\Debug\If_Then_Notes.Form1.resources
+u:\visual studio 2010\Projects\If Then Notes\If Then Notes\obj\x86\Debug\If_Then_Notes.Resources.resources
+u:\visual studio 2010\Projects\If Then Notes\If Then Notes\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\visual studio 2010\Projects\If Then Notes\If Then Notes\obj\x86\Debug\GenerateResource.write.1.tlog
+u:\visual studio 2010\Projects\If Then Notes\If Then Notes\obj\x86\Debug\If Then Notes.exe
+u:\visual studio 2010\Projects\If Then Notes\If Then Notes\obj\x86\Debug\If Then Notes.xml
+u:\visual studio 2010\Projects\If Then Notes\If Then Notes\obj\x86\Debug\If Then Notes.pdb

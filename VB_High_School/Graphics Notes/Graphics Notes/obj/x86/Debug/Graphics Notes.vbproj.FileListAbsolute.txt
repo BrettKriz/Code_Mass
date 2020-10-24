@@ -1,0 +1,16 @@
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\obj\x86\Debug\Graphics_Notes.Form1.resources
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\obj\x86\Debug\Graphics_Notes.Resources.resources
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\obj\x86\Debug\GenerateResource.write.1.tlog
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\bin\Debug\Graphics Notes.exe
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\bin\Debug\Graphics Notes.pdb
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\bin\Debug\Graphics Notes.xml
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\obj\x86\Debug\Graphics Notes.exe
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\obj\x86\Debug\Graphics Notes.xml
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\obj\x86\Debug\Graphics Notes.pdb
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\bin\Debug\Interop.WMPLib.dll
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\bin\Debug\AxInterop.WMPLib.dll
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\obj\x86\Debug\Interop.WMPLib.dll
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\obj\x86\Debug\AxInterop.WMPLib.dll
+u:\visual studio 2010\Projects\Graphics Notes\Graphics Notes\obj\x86\Debug\Graphics Notes.vbproj.ResolveComReference.cache

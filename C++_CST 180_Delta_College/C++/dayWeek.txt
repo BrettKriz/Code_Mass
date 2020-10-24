@@ -1,0 +1,57 @@
+// This program prompts the user for any valid calendar date 
+// after 1/1/1900 and writes the day of the week the date falls on
+// to console output
+
+#include <iostream>
+using namespace std;
+
+void WeekDay(int mon,int day,int year);
+
+int main()
+{
+    int month, day, year;       // Components of calendar date
+    long dayCnt;                // Counter for number of days since 1/1/1900
+    int daynum, i;              // Work variables
+  
+    // Input date
+    cout << "Enter a valid calendar month, day, and year (mm dd yyyy)" << endl;
+    cout << " and press <Enter>: " << endl;
+    cin >> month >> day >> year;
+
+    // Day of week algorithms
+    dayCnt = (year - 1900) * 365;                 // Count days to beginning of current year
+    dayCnt += ((year - 1900) / 4) + 1;            // Add leap year days prior to current year
+    for (i = 1; i <= month - 1; i++)              // Count days to beginning of current month
+        switch(i)
+        {
+            case 2:     dayCnt +=28; break;
+            case 4:
+            case 6:
+            case 9:
+            case 11:    dayCnt +=30; break;
+            default:    dayCnt +=31; 
+        };
+        
+    if (((year - 1900) % 4 == 0) && (month <= 2))  // Delete 2/29 if a leap year, but before 2/29
+        dayCnt--;
+    dayCnt += day;                                 // Add days in this month
+    daynum = (dayCnt - 1) % 7;                     // Adjust days to weekly day code
+    
+    // Output
+    cout << "Date falls on a ";
+    
+    // Complete message with actual day-of-week name from code
+    switch(daynum)
+    {
+        case 0: cout << "SUN"; break;
+        case 1: cout << "MON"; break;
+        case 2: cout << "TUE"; break;
+        case 3: cout << "WED"; break;
+        case 4: cout << "THU"; break;
+        case 5: cout << "FRI"; break;
+        case 6: cout << "SAT"; break;
+    } // end switch
+    cout << endl;
+
+  return 0;
+}

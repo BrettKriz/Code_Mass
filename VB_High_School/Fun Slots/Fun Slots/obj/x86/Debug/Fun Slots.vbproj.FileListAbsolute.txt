@@ -1,0 +1,11 @@
+u:\visual studio 2010\Projects\Fun Slots\Fun Slots\bin\Debug\Fun Slots.exe
+u:\visual studio 2010\Projects\Fun Slots\Fun Slots\bin\Debug\Fun Slots.pdb
+u:\visual studio 2010\Projects\Fun Slots\Fun Slots\bin\Debug\Fun Slots.xml
+u:\visual studio 2010\Projects\Fun Slots\Fun Slots\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\visual studio 2010\Projects\Fun Slots\Fun Slots\obj\x86\Debug\Fun_Slots.Form1.resources
+u:\visual studio 2010\Projects\Fun Slots\Fun Slots\obj\x86\Debug\Fun_Slots.Resources.resources
+u:\visual studio 2010\Projects\Fun Slots\Fun Slots\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\visual studio 2010\Projects\Fun Slots\Fun Slots\obj\x86\Debug\GenerateResource.write.1.tlog
+u:\visual studio 2010\Projects\Fun Slots\Fun Slots\obj\x86\Debug\Fun Slots.exe
+u:\visual studio 2010\Projects\Fun Slots\Fun Slots\obj\x86\Debug\Fun Slots.xml
+u:\visual studio 2010\Projects\Fun Slots\Fun Slots\obj\x86\Debug\Fun Slots.pdb

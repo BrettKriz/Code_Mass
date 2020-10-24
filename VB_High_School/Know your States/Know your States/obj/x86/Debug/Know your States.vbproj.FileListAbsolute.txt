@@ -1,0 +1,11 @@
+u:\visual studio 2010\Projects\Know your States\Know your States\bin\Debug\Know your States.exe
+u:\visual studio 2010\Projects\Know your States\Know your States\bin\Debug\Know your States.pdb
+u:\visual studio 2010\Projects\Know your States\Know your States\bin\Debug\Know your States.xml
+u:\visual studio 2010\Projects\Know your States\Know your States\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\visual studio 2010\Projects\Know your States\Know your States\obj\x86\Debug\Know_your_States.Form1.resources
+u:\visual studio 2010\Projects\Know your States\Know your States\obj\x86\Debug\Know_your_States.Resources.resources
+u:\visual studio 2010\Projects\Know your States\Know your States\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\visual studio 2010\Projects\Know your States\Know your States\obj\x86\Debug\GenerateResource.write.1.tlog
+u:\visual studio 2010\Projects\Know your States\Know your States\obj\x86\Debug\Know your States.exe
+u:\visual studio 2010\Projects\Know your States\Know your States\obj\x86\Debug\Know your States.xml
+u:\visual studio 2010\Projects\Know your States\Know your States\obj\x86\Debug\Know your States.pdb

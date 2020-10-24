@@ -1,0 +1,50 @@
+-- TINPURR INITIAL DB SETUP
+
+create table shelter(
+	id int AUTO_INCREMENT,
+	name varchar(200) not null,
+    phone varchar(15) not null,
+	adress varchar(150),
+	city varchar(40),
+	state varchar(10),
+	country varchar(40),
+	email varchar(150),
+	hours varchar(300),
+	-- Pets will reference a shelter
+	
+	primary key(phone)
+	
+);
+
+create table pet(
+	id int AUTO_INCREMENT primary key,
+	name varchar(100) not null,
+	shelter_id varchar(15) not null,
+	species varchar(90),
+	color varchar(100),
+	sex bool not null,
+	age int,
+	img blob,
+	fee double(5,2),
+	personality varchar(450),
+	vaccinations varchar(500),
+	special_health varchar(500),
+	joint_addopt pet, -- NULL or pet
+	fixed bool not null,
+	kids bool,
+	small_pets bool,
+	cats bool,
+	dogs bool,
+	friendly bool,
+	declawed bool,
+
+    foreign key (shelter_id) references shelter(phone)
+);
+
+--load data local infile "/home/campus23/bakriz/Programming/cs3425/Assignment7/customer.txt" into table pet;
+
+delimiter //
+create procedure enroll (name char(100), shelter_id char(15), species char(90), sex bool,)
+begin
+insert into pet values (id, course_id, Null);
+end //

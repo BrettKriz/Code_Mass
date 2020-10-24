@@ -1,0 +1,11 @@
+u:\visual studio 2010\Projects\String Notes\String Notes\bin\Debug\String Notes.exe
+u:\visual studio 2010\Projects\String Notes\String Notes\bin\Debug\String Notes.pdb
+u:\visual studio 2010\Projects\String Notes\String Notes\bin\Debug\String Notes.xml
+u:\visual studio 2010\Projects\String Notes\String Notes\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\visual studio 2010\Projects\String Notes\String Notes\obj\x86\Debug\String_Notes.Form1.resources
+u:\visual studio 2010\Projects\String Notes\String Notes\obj\x86\Debug\String_Notes.Resources.resources
+u:\visual studio 2010\Projects\String Notes\String Notes\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\visual studio 2010\Projects\String Notes\String Notes\obj\x86\Debug\GenerateResource.write.1.tlog
+u:\visual studio 2010\Projects\String Notes\String Notes\obj\x86\Debug\String Notes.exe
+u:\visual studio 2010\Projects\String Notes\String Notes\obj\x86\Debug\String Notes.xml
+u:\visual studio 2010\Projects\String Notes\String Notes\obj\x86\Debug\String Notes.pdb

@@ -1,0 +1,11 @@
+u:\visual studio 2010\Projects\MP2 Test\MP2 Test\bin\Debug\MP2 Test.exe
+u:\visual studio 2010\Projects\MP2 Test\MP2 Test\bin\Debug\MP2 Test.pdb
+u:\visual studio 2010\Projects\MP2 Test\MP2 Test\bin\Debug\MP2 Test.xml
+u:\visual studio 2010\Projects\MP2 Test\MP2 Test\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\visual studio 2010\Projects\MP2 Test\MP2 Test\obj\x86\Debug\MP2_Test.Form1.resources
+u:\visual studio 2010\Projects\MP2 Test\MP2 Test\obj\x86\Debug\MP2_Test.Resources.resources
+u:\visual studio 2010\Projects\MP2 Test\MP2 Test\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\visual studio 2010\Projects\MP2 Test\MP2 Test\obj\x86\Debug\GenerateResource.write.1.tlog
+u:\visual studio 2010\Projects\MP2 Test\MP2 Test\obj\x86\Debug\MP2 Test.exe
+u:\visual studio 2010\Projects\MP2 Test\MP2 Test\obj\x86\Debug\MP2 Test.xml
+u:\visual studio 2010\Projects\MP2 Test\MP2 Test\obj\x86\Debug\MP2 Test.pdb

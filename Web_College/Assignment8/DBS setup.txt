@@ -1,0 +1,65 @@
+-- For the bank
+use bakriz;
+
+drop table if exists saving;
+drop table if exists checking;
+drop table if exists customer;
+
+create table customer(
+	name varchar(200) not null,
+    id varchar(100) not null,
+    phone_number varchar(50),
+	primary key(id)
+);
+
+create table saving(
+	account_number varchar(10) not null primary key,
+    customer_id varchar(100) not null,
+    balance double(18,2),
+    foreign key (customer_id) references customer(id)
+);
+
+
+create table checking(
+	account_number varchar(10) not null primary key,
+    customer_id varchar(100) not null,
+    balance double(18,2),
+    foreign key (customer_id) references customer(id)
+);
+
+grant select on table customer to 'cs3425gr'@'%';
+grant delete on table customer to 'cs3425gr'@'%';
+grant update on table customer to 'cs3425gr'@'%';
+grant insert on table customer to 'cs3425gr'@'%';
+
+grant select on table saving to 'cs3425gr'@'%';
+grant delete on table saving to 'cs3425gr'@'%';
+grant update on table saving to 'cs3425gr'@'%';
+grant insert on table saving to 'cs3425gr'@'%';
+
+grant select on table checking to 'cs3425gr'@'%';
+grant delete on table checking to 'cs3425gr'@'%';
+grant update on table checking to 'cs3425gr'@'%';
+grant insert on table checking to 'cs3425gr'@'%';
+
+load data local infile "/home/campus23/bakriz/Programming/cs3425/Assignment7/customer.txt" into table customer;
+-- load data local infile "/home/campus23/bakriz/Programming/cs3425/Assignment7/saving.txt" into table saving;
+-- load data local infile "/home/campus23/bakriz/Programming/cs3425/Assignment7/checking.txt" into table checking;
+
+-- Process
+
+insert into saving values('s0080','c001', 50.50);
+insert into saving values('s0090', 'c008', 52.52);
+insert into saving values('s0091', 'c008', 100.52);
+insert into saving values('s2092', 'c002', 1337.22);
+
+insert into checking values('c0001', 'c002', 222.66);
+insert into checking values('c0005', 'c001', 555.77);
+
+select *
+from saving
+group by customer_id;
+
+select *
+from checking
+group by customer_id;

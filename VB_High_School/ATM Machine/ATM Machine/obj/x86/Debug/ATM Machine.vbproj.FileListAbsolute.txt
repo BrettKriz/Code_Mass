@@ -1,0 +1,11 @@
+u:\visual studio 2010\Projects\ATM Machine\ATM Machine\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\visual studio 2010\Projects\ATM Machine\ATM Machine\obj\x86\Debug\ATM_Machine.Form1.resources
+u:\visual studio 2010\Projects\ATM Machine\ATM Machine\obj\x86\Debug\ATM_Machine.Resources.resources
+u:\visual studio 2010\Projects\ATM Machine\ATM Machine\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\visual studio 2010\Projects\ATM Machine\ATM Machine\obj\x86\Debug\GenerateResource.write.1.tlog
+u:\visual studio 2010\Projects\ATM Machine\ATM Machine\bin\Debug\ATM Machine.exe
+u:\visual studio 2010\Projects\ATM Machine\ATM Machine\bin\Debug\ATM Machine.pdb
+u:\visual studio 2010\Projects\ATM Machine\ATM Machine\bin\Debug\ATM Machine.xml
+u:\visual studio 2010\Projects\ATM Machine\ATM Machine\obj\x86\Debug\ATM Machine.exe
+u:\visual studio 2010\Projects\ATM Machine\ATM Machine\obj\x86\Debug\ATM Machine.xml
+u:\visual studio 2010\Projects\ATM Machine\ATM Machine\obj\x86\Debug\ATM Machine.pdb

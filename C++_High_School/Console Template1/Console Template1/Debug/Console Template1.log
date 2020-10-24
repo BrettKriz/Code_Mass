@@ -1,0 +1,28 @@
+﻿Build started 4/29/2011 7:42:16 AM.
+     1>Project "u:\visual studio 2010\Projects\Console Template1\Console Template1\Console Template1.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Creating "Debug\Console Template1.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt Base.cpp
+         Base.cpp
+     1>u:\visual studio 2010\projects\console template1\console template1\base.cpp(81): warning C4996: 'ctime': This function or variable may be unsafe. Consider using ctime_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+                 c:\program files\microsoft visual studio 10.0\vc\include\time.inl(86) : see declaration of 'ctime'
+       ManifestResourceCompile:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Console Template1.exe.embed.manifest.res" "Debug\Console Template1_manifest.rc" 
+       Link:
+         c:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"u:\visual studio 2010\Projects\Console Template1\Debug\Console Template1.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\Console Template1.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"u:\visual studio 2010\Projects\Console Template1\Debug\Console Template1.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"u:\visual studio 2010\Projects\Console Template1\Debug\Console Template1.lib" /MACHINE:X86 "Debug\Console Template1.exe.embed.manifest.res"
+         Debug\Base.obj
+       Manifest:
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Console Template1.exe.embed.manifest" /manifest "Debug\Console Template1.exe.intermediate.manifest"
+         c:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Console Template1.exe.embed.manifest.res" "Debug\Console Template1_manifest.rc" 
+       LinkEmbedManifest:
+         All outputs are up-to-date.
+         Console Template1.vcxproj -> u:\visual studio 2010\Projects\Console Template1\Debug\Console Template1.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\Console Template1.unsuccessfulbuild".
+         Touching "Debug\Console Template1.lastbuildstate".
+     1>Done Building Project "u:\visual studio 2010\Projects\Console Template1\Console Template1\Console Template1.vcxproj" (build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.15

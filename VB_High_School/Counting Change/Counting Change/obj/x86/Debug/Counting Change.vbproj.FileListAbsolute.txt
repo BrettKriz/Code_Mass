@@ -1,0 +1,11 @@
+u:\visual studio 2010\Projects\Counting Change\Counting Change\bin\Debug\Counting Change.exe
+u:\visual studio 2010\Projects\Counting Change\Counting Change\bin\Debug\Counting Change.pdb
+u:\visual studio 2010\Projects\Counting Change\Counting Change\bin\Debug\Counting Change.xml
+u:\visual studio 2010\Projects\Counting Change\Counting Change\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\visual studio 2010\Projects\Counting Change\Counting Change\obj\x86\Debug\Counting_Change.Form1.resources
+u:\visual studio 2010\Projects\Counting Change\Counting Change\obj\x86\Debug\Counting_Change.Resources.resources
+u:\visual studio 2010\Projects\Counting Change\Counting Change\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\visual studio 2010\Projects\Counting Change\Counting Change\obj\x86\Debug\GenerateResource.write.1.tlog
+u:\visual studio 2010\Projects\Counting Change\Counting Change\obj\x86\Debug\Counting Change.exe
+u:\visual studio 2010\Projects\Counting Change\Counting Change\obj\x86\Debug\Counting Change.xml
+u:\visual studio 2010\Projects\Counting Change\Counting Change\obj\x86\Debug\Counting Change.pdb

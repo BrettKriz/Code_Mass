@@ -1,0 +1,11 @@
+u:\visual studio 2010\Projects\Array Notes\Array Notes\bin\Debug\Array Notes.exe
+u:\visual studio 2010\Projects\Array Notes\Array Notes\bin\Debug\Array Notes.pdb
+u:\visual studio 2010\Projects\Array Notes\Array Notes\bin\Debug\Array Notes.xml
+u:\visual studio 2010\Projects\Array Notes\Array Notes\obj\x86\Debug\ResolveAssemblyReference.cache
+u:\visual studio 2010\Projects\Array Notes\Array Notes\obj\x86\Debug\Array_Notes.Form1.resources
+u:\visual studio 2010\Projects\Array Notes\Array Notes\obj\x86\Debug\Array_Notes.Resources.resources
+u:\visual studio 2010\Projects\Array Notes\Array Notes\obj\x86\Debug\GenerateResource.read.1.tlog
+u:\visual studio 2010\Projects\Array Notes\Array Notes\obj\x86\Debug\GenerateResource.write.1.tlog
+u:\visual studio 2010\Projects\Array Notes\Array Notes\obj\x86\Debug\Array Notes.exe
+u:\visual studio 2010\Projects\Array Notes\Array Notes\obj\x86\Debug\Array Notes.xml
+u:\visual studio 2010\Projects\Array Notes\Array Notes\obj\x86\Debug\Array Notes.pdb
